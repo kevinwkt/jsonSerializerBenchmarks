@@ -9,8 +9,6 @@ def clean_state():
 
 
 processes = ["Serialize", "Deserialize"]
-# processes = ["Deserialize"]
-# , "CollectionsOfPrimitives"] Jil failing with the JSON payload.
 types = ["LoginViewModel", "Location", "IndexViewModel"]
 mechanisms = ["SourceGeneration", "System.Text.Json",
     "Json.NET", "Utf8Json", "Jil"]
@@ -72,7 +70,7 @@ def load_results(input_path):
 
 
 # results = load_results('start_up_results_hardcode_json.json')
-results = run_new_benchmarks('start_up_results_source_generation.json')
+results = run_new_benchmarks('throughput_results_source_generation.json')
 print(results)
 
 print("Summary\n=======\n")

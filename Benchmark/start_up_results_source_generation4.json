@@ -1,0 +1,73 @@
+{
+    "Serialize SourceGeneration LoginViewModel": 39.75,
+    "Serialize System.Text.Json LoginViewModel": 44.0,
+    "Serialize Json.NET LoginViewModel": 98.5,
+    "Serialize Utf8Json LoginViewModel": 87.25,
+    "Serialize Jil LoginViewModel": 112.25,
+
+    "Serialize SourceGeneration Location": 40.5,
+    "Serialize System.Text.Json Location": 48.0,
+    "Serialize Json.NET Location": 98.25,
+    "Serialize Utf8Json Location": 91.5,
+    "Serialize Jil Location": 115.0,
+
+    "Serialize SourceGeneration IndexViewModel": 56.25,
+    "Serialize System.Text.Json IndexViewModel": 56.25,
+    "Serialize Json.NET IndexViewModel": 103.0,
+    "Serialize Utf8Json IndexViewModel": 99.5,
+    "Serialize Jil IndexViewModel": 140.0,
+
+    "Deserialize SourceGeneration LoginViewModel": 32.0,
+    "Deserialize System.Text.Json LoginViewModel": 40.75,
+    "Deserialize Json.NET LoginViewModel": 88.5,
+    "Deserialize Utf8Json LoginViewModel": 88.75,
+    "Deserialize Jil LoginViewModel": 134.5,
+
+    "Deserialize SourceGeneration Location": 43.5,
+    "Deserialize System.Text.Json Location": 47.5,
+    "Deserialize Json.NET Location": 103.0,
+    "Deserialize Utf8Json Location": 82.75,
+    "Deserialize Jil Location": 153.25,
+
+    "Deserialize SourceGeneration IndexViewModel": 44.5,
+    "Deserialize System.Text.Json IndexViewModel": 50.75,
+    "Deserialize Json.NET IndexViewModel": 101.25,
+    "Deserialize Utf8Json IndexViewModel": 106.25,
+    "Deserialize Jil IndexViewModel": 179.0
+}{
+    "Serialize SourceGeneration LoginViewModel": 36,
+    "Serialize System.Text.Json LoginViewModel": 43,
+    "Serialize Json.NET LoginViewModel": 95,
+    "Serialize Utf8Json LoginViewModel": 86,
+    "Serialize Jil LoginViewModel": 106,
+
+    "Serialize SourceGeneration Location": 39,
+    "Serialize System.Text.Json Location": 46,
+    "Serialize Json.NET Location": 96,
+    "Serialize Utf8Json Location": 88,
+    "Serialize Jil Location": 112,
+
+    "Serialize SourceGeneration IndexViewModel": 51,
+    "Serialize System.Text.Json IndexViewModel": 54,
+    "Serialize Json.NET IndexViewModel": 102,
+    "Serialize Utf8Json IndexViewModel": 96,
+    "Serialize Jil IndexViewModel": 138,
+
+    "Deserialize SourceGeneration LoginViewModel": 30,
+    "Deserialize System.Text.Json LoginViewModel": 39,
+    "Deserialize Json.NET LoginViewModel": 87,
+    "Deserialize Utf8Json LoginViewModel": 82,
+    "Deserialize Jil LoginViewModel": 132,
+
+    "Deserialize SourceGeneration Location": 33,
+    "Deserialize System.Text.Json Location": 41,
+    "Deserialize Json.NET Location": 98,
+    "Deserialize Utf8Json Location": 76,
+    "Deserialize Jil Location": 148,
+
+    "Deserialize SourceGeneration IndexViewModel": 44,
+    "Deserialize System.Text.Json IndexViewModel": 48,
+    "Deserialize Json.NET IndexViewModel": 98,
+    "Deserialize Utf8Json IndexViewModel": 101,
+    "Deserialize Jil IndexViewModel": 172
+}
